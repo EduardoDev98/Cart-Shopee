@@ -1,8 +1,6 @@
 
 
-  <img src="https://via.placeholder.com/1200x300.png?text=Shopee+Cart+Simulator" alt="Banner Shopee Cart Simulator" />
-</p>
-
+ 
 <h1 align="center">🛒 Shopee Cart Simulator</h1>
 
 <p align="center">
